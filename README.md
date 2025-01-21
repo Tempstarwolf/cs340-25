@@ -1,2 +1,2 @@
-netid: ccoughl3
-ghid: 
+netid: ccoughl3            
+ghid: Tempstarwolf
